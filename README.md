@@ -3,5 +3,5 @@ This repo consists of different practice files used in GUI development.
 ![](test_gif/test3.gif)
 
 
-![](test_gif/test3 - Copy.gif)
+![](test_gif/test1.gif)
 
